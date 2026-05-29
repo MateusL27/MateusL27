@@ -65,8 +65,7 @@ Atualmente, atuo como Aprendiz de Service Desk na Wellhub, onde desenvolvo exper
 
 ---
 
-### 📜 Certificações
-
+* ☕ **Java Completo com Orientação a Objetos e Exercícios** — *Hora de Codar (Matheus Battisti) / Udemy*
 * ☁️ **AWS Certified Cloud Practitioner (CLF-C02)** — *Amazon Web Services*
 * 🛠️ **AWS Cloud Practitioner – Hands On** — *Udemy*
 * 🗄️ **Oracle Database Foundations & Database Design** — *Oracle Academy*
