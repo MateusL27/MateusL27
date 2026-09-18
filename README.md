@@ -1,47 +1,25 @@
 # 👨‍💻 Mateus Lira
 
-**Analista de Sistemas | Service Desk | Futuro Desenvolvedor Backend**
+**Analista de Sistemas | Service Desk | Futuro Desenvolvedor Backend Java**
 
 Me chamo Mateus Lira, tenho 18 anos e atualmente curso Análise e Desenvolvimento de Sistemas no SENAC Santo Amaro, com previsão de conclusão em 2028. Também possuo formação técnica em Eletroeletrônica pela ETEC Guaracy Silveira.
 
-Atualmente, atuo como Aprendiz de Service Desk na Wellhub, onde desenvolvo experiência prática com suporte técnico, troubleshooting e automação de processos. Sou apaixonado por tecnologia e venho direcionando meus estudos para engenharia de software, focado em criar soluções eficientes e escaláveis.
+Atualmente, atuo como Aprendiz de Service Desk na Wellhub, onde desenvolvo experiência prática com suporte técnico, troubleshooting e automação de processos. Sou apaixonado por tecnologia e venho direcionando meus estudos para engenharia de software backend, focado em criar APIs RESTful eficientes, escaláveis e resilientes.
 
 ---
 
 ### 🤖 Linguagens e Tecnologias
 
-<img 
-    align="left" 
-    alt="Java"
-    title="Java" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="AWS" 
-    title="AWS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" 
-/>
+<img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img align="left" alt="Spring Boot" title="Spring Boot" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+<img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+<img align="left" alt="Postman" title="Postman" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+<img align="left" alt="HTML5" title="HTML5" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS3" title="CSS3" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="AWS" title="AWS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" />
 <br/>
 <br/>
 
@@ -57,18 +35,21 @@ Atualmente, atuo como Aprendiz de Service Desk na Wellhub, onde desenvolvo exper
 
 ---
 
-### 🎓 Percurso Acadêmico
+### 🎓 Percurso Acadêmico e Certificações
 
 * **SENAC Santo Amaro** — Análise e Desenvolvimento de Sistemas *(Cursando | Conclusão: 2028)*
-* **ETEC Guaracy Silveira** — Técnico em Eletroeletrônica *(Concluído | Projeto de TCC voltado para automação residencial com integração de sensores)*
+* **ETEC Guaracy Silveira** — Técnico em Eletroeletrônica *(Concluído | TCC focado em automação residencial com integração de sensores)*
 * **Objetivo CSA** — Ensino Médio *(Concluído)*
 
 ---
 
-* ☕ **Java Completo com Orientação a Objetos e Exercícios** — *Hora de Codar (Matheus Battisti) / Udemy*
+* 🍃 **Spring Boot Expert: APIs RESTful, JPA e Spring Security** — *Dougllas Souza / Udemy (Em andamento)*
+* ☕ **Java Completo com Orientação a Objetos e Exercícios** — *Matheus Battisti (Hora de Codar) / Udemy*
+* 🌐 **Desenvolvimento Web Fundamentals (HTML5, CSS3, JavaScript)** — *Udemy*
+* 🛠️ **Testes e Documentação de APIs com Postman** — *Udemy*
+* 🗄️ **PostgreSQL & Oracle Database Foundations** — *Oracle Academy / Udemy*
 * ☁️ **AWS Certified Cloud Practitioner (CLF-C02)** — *Amazon Web Services*
 * 🛠️ **AWS Cloud Practitioner – Hands On** — *Udemy*
-* 🗄️ **Oracle Database Foundations & Database Design** — *Oracle Academy*
 * 📈 **Pacote Office (Word, Excel e Access)** — *Udemy*
 * 🇺🇸 **Inglês Intermediário (Fluency 2)** — *Fisk*
 
